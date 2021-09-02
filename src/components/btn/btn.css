@@ -1,0 +1,14 @@
+.link{
+    text-decoration: none;
+    
+}
+
+p{
+    width: 3rem;
+    border-radius: 0.3rem;
+    text-align: center;
+    background-color: black;
+    color: white;
+    
+
+}

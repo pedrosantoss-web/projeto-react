@@ -1,0 +1,47 @@
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav{
+    background-image: url('https://http2.mlstatic.com/D_NQ_NP_646890-MLB32294878894_092019-O.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+
+}
+
+.btn{
+    width: 2.5rem;
+    text-decoration: none;
+    text-align: center;
+    box-shadow: 1px 3px 2px black;
+    border-radius: 0.3rem;
+    background-color: cadetblue;
+    color: black;
+    padding-right:4rem;
+}
+
+.btn:hover{
+    background-color: blanchedalmond;
+}
+
+
+.tit{
+    margin-top: 2rem;
+}
+
+.img{
+    width: 5rem;
+    height: 4rem;
+    border-radius: 50%;  
+}
